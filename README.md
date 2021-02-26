@@ -6,8 +6,8 @@ This modern boilerplate template uses namespaces for PHP and React for plugin se
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-* You have installed the latest version of `Node.js`
-* You have installed the latest version of `NPM`
+* You have installed the latest version of [Node.js](https://nodejs.org/en/download/)
+* You have installed the latest version of NPM (included with Node.js)
 
 ### Installation
 
