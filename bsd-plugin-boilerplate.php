@@ -3,7 +3,7 @@
 /*
  * Plugin Name:     BSD Plugin Boilerplate
  * Plugin URI:      https://www.battlestardigital.com/
- * Description:     Pluguin boilerplate
+ * Description:     Plugin boilerplate
  * Version:         1.0.0
  * Author:          Battlestar Digital
  * Author URI:      https://www.battlestardigital.com/
